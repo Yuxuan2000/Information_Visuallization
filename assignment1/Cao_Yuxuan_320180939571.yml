@@ -1,0 +1,15 @@
+student_id: <320180939571>
+assignment_id: assignment1
+answers:
+  - question: 1
+    answer: The main techniques of the video is animating the data in real space.
+  - question: 2
+    answer: country, the life expectancy of the countries, the income per person for the countries .
+  - question: 3
+    answer: Information visualization is "Show the data in ways people both enjoy and understand.".
+  - question: 4
+    answer: Data is facts collected numerically from reality or behaviors. It may be hard for human to read or understand. Information differs from data because it is more clear for human to read or understand.
+  - question: 5
+    answer: I learned that the most important step of information visualization is choosing a suitable form, incorrect visualization form could cause trouble during reading.
+  - question: 6
+    answer: I think the most difficult part for me is how to pick the suitable graphs in decision level. 

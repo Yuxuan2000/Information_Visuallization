@@ -1,0 +1,25 @@
+student_id: <320180939571>
+assignment_id: assignment2
+answers:
+  - question: 1
+    answer: They have different purpose. Exploratory visualizations means to help data analyst understand the data by making graphs. Descriptive/explanatory visualizations means try to convey the information of data to the audience. According to their purpose, they also have different stages in the work flow. Data analyst may use Exploratory visualizations at first and Descriptive/explanatory visualizations in further steps.
+  - question: 2
+    answer: The purpose, What the the source data is, The form of media, Target readers. 
+  - question: 3
+    answer: Grid processing, Legend representation, classified representation. 
+  - question: 4
+    answer: https://luiscruz.github.io/course_infovis/wtf-viz/media/tumblr_o8xa81dMsh1sgh0voo1_1280.jpg
+  - question: 5
+    answer: The graph is a pie chart show the distribution of different genes in one pie.
+  - question: 6
+    answer: There are too much genes in a single pie, which makes the graph hard to read.
+  - question: 7
+    answer: Combine options whose distribution is too small into one option. Or split the pie into several different pies in different level.
+  - question: 8
+    answer: When you are doing information visualization, it is important to know how the information hidden in the graph and have the ability to guess what is the reason of that.
+  - question: 9
+    answer: Grid graph with legend, line chart with legend and colored shadow, 
+  - question: 10
+    answer: Information is beautiful
+  - question: 11
+    answer: About 45 minutes.

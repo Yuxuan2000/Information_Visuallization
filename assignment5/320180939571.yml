@@ -1,0 +1,26 @@
+student_id: 320180939571
+assignment_id: assignment5
+answers:
+  - question: 1
+    answer: Area Graph
+
+  - question: 2
+    answer: 1.The name and value of x_axis, y_axis. 2.The name of categories. 3.The color of categories. 4.The value of the shadow edge. 5.The shadow area of categories.
+
+  - question: 3
+    answer: 1.The name and value of x_axis, y_axis:Nominal and Continuous. 2.The name of categories:Nominal. 3.The color of categories:Nominal. 4.The value of shadow edge:Continuous. 5.The shadow area of categories:Continuous.
+
+  - question: 4
+    answer: The Area graph shows the changes in the values ​​of different categories and their accumulation in time or space. The area graph is very similar to the line graph, but in addition to the information already contained in the line graph, it also contains the information of accumulation. Therefore, I regard it as an extension of the line graph. For example, if multiple products are being produced at the same time in a factory, and the production is used as the y-axis and time is the x-axis, then the shadow area represents the total output in a period(maybe a month or a year). Analysts can roughly compare the production of these products by observing the shaded area.
+
+  - question: 5
+    answer: The shadow area is usually obtained by observation rather than calculation（If you don’t use the calculus function）. Sometimes the shape of some shadows can be strange. It makes it hard for analysts to make an estimate of its area, which may lead to wrong results. In addition, when there are too many categories, many shadows overlap and cause observation difficulties.
+
+  - question: 6
+    answer: For the first pitfall, when drawing the graph with Python, you can use calculus to calculate the precise area of ​​the shadow and display it on the corresponding shadow to avoid incorrect estimate. For the second pitfall, you can reduce the number of categories on a single picture or use higher-contrast colors for different categories to make the graph easier to observe.
+
+  - question: 7
+    answer: https://images.squarespace-cdn.com/content/v1/55b6a6dce4b089e11621d3ed/1586289620323-WIX8ZFV4XY7B1DEFIEJ4/ke17ZwdGBToddI8pDm48kPGmAVo5wdI5MhwgwdFHgh4UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dgWpB19_qqcLy7oMGxenWwLjRRsNbVkZyvY7z-Nq_cHRCjLISwBs8eEdxAxTptZAUg/area-stacked.png
+
+  - question: 8
+    answer: 45 minutes.
