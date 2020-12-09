@@ -65,7 +65,7 @@
 ## 2.  Selection of Relevant Visualization and Division of Labor for the Project ##
 
 ### 2.1 How do we find the visualization ###
-We need to find a visualization that satisfy these requirements: 1. The visualization do convey some meaningful information. 
+We need to find a visualization that satisfy these requirements: 1. The visualization do convey some meaningful information. We need to find a meaningful visualization instead of just good-looking picture. 2. The visualization should not be prefect, if the selected picture is 
 
 ### 2.2 How do we decide the division of labor for this project ###
 
