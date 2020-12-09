@@ -1,0 +1,24 @@
+student_id: 320180939571
+assignment_id: assignment15
+answers:
+  - question: 1
+    answer: " Stroop Effect happens due to semantic interference, So if the color and its meaning are incongruent, It could decrease the efficiency of visualization or make users more likely to make mistakes. If a graph use red bars to represent cold weather and blue bars for hot weather, it could lead to Stroop Effect "
+
+  - question: 2
+    answer: " Our attention is limited. Our brain can only process about 1% of the visual input data. In a visualization, information is competing for our attention. So if legends are used in the graph, it could take the user's attention away from important information, Meanwhile, our working memory is also limited, so it happens that the user can not remember legends and the graph at the same time. "
+
+  - question: 3
+    answer: " Shape is another factor we can use. When designing the Visualization of a 
+Weather forecast map，we use a circle to represent the sun, a drop shape to represent rain, and a swirl to represent a typhoon. "
+
+  - question: 4
+    answer: " When we get a Visualization designing task at first, our understanding of it is actually in the first stage of Proceduralization. We need to study the context and get to the second and third stage, which makes our performance becomes faster and less prone to error "
+
+  - question: 5
+    answer: " knowledge-driven cognitive tasks is Macro-cognition. It is actually the initial stage of Proceduralization. It requires high-loads of working memory and uses more time than automatic productions. Meanwhile, it also causes more errors "
+
+  - question: 6
+    answer: " Because the working memory of a man is limited, if the information in the graph is overload, the user will forget some other information, which causes errors. "
+
+  - question: 7
+    answer: " I will give the user a choice of dividing the box plots into different subplots to avoid information overload. "

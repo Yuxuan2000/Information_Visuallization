@@ -1,0 +1,35 @@
+student_id: 320180939571
+assignment_id: assignment14
+answers:
+  - question: 1
+    answer: " Anscombe's quartet is consists of four data sets, each dataset consists of eleven (x,y) points. that have almost the same simple statistical features, but their actual distributions are different. Their difference can be easily observed by graphing but hard to observe by statistics. They can prove the importance of graphing data before analyzing it. "
+
+  - question: 2
+    answer: "1) Use proper color to describe data features. For example, use red to represent high-temperature data and blue for cold temperature data. Otherwise, it may cause conflicts with users. 2) Do not give too much information in a single graph, if you need so, try to split them into different graphs. Because working memory is limited. "
+
+  - question: 3
+    answer: "Peter Doolittle tells us that working memory is part of our consciousness that we are aware of at any given time in the day."
+
+  - question: 4
+    answer: "Information visualizations should be able to convey the wanted information in a simple and easily-understand form. If a visualization graph contains too much useless information, it will fill the user's working memory and make them forget important information. "
+
+  - question: 5
+    quiz: " What is data ontology? "
+    correct_answer: " a set of concepts and categories in a subject area or domain that shows
+their properties and the relations between them. "
+
+  - question: 6
+    quiz: Show three principles for Graphical Integrity made by Edward Tufte. 
+    correct_answer: " 1. The representation of numbers, as physically measured on the surface of the graph itself,
+should be directly proportional to the numerical quantities represented. 2. Clear, detailed and thorough labeling should be used to defeat graphical distortion and
+ambiguity. Write out explanations of the data on the graph itself.  Label important events in
+the data. 3. Show data variation, not design variation. "
+
+  - question: 7
+    quiz: " Would we add decorations into the graph just to make the graph looks better ?"
+    correct_answer: " No, Every ink in the graph should be reasonable "
+
+  - question: 8
+    quiz: " List a method that can make the data easier to be compared. "
+    correct_answer: " 1.Use diverging color schemes for data that progresses outward from a middle
+value. E.g., positive and negative values.  2. Sort the data. "

@@ -1,0 +1,45 @@
+student_id: 320180939571
+assignment_id: assignment16
+answers:
+  - question: 1
+    answer1: " Information Visuallisation must present information and associated patterns rigorously, accurately, and faithfully.The best information visualization is one that can effectively convey the message to its readers. "
+    answer2: " What makes a good visualization:Information(data),Story(concept),Goal(function),Visual Form(metaphor) "
+    answer3: " Data is the source, Information is the insight from data "
+    answer4: " A fancy visualization is not necessarily a good visualization. "
+    answer5: " Information Visuallisation aims to communicate complex ideas to its audience and inspire its users for new connections. "
+
+
+  - question: 2
+    answer1: "Ontology is a set of concepts and categories in a subject area or domain that shows their properties and the relations between them. "
+    answer2: " Trash in Trash out, Bad data leads to bad visualizations. "
+    answer3: " Without having access to the data, visualizations cannot be verified nor replicated. "
+    answer4: " Insights from data cannot be provided without context. Without the right context, visualizations can be misleading of their Purpose, Readership, Media, Visual guides. "
+    answer5: " Numerical Data(
+	Discrete
+	Continuous(
+		Interval
+		ratio))
+Categorical Data:
+	(Nominal
+	Ordinal) "
+
+
+  - question: 3
+    answer1: " Chartjunk: Visual elements in charts and graphs that are not necessary to comprehend the information represented on the graph or that distract the viewer from this information. "
+    answer2: " Above all else, show the data. Create the simplest graph that conveys the information you want to present. "
+    answer3: " Maximize the data-ink ratio. Every bit of ink requires a reason. Nearly always, that reason should be to present new information. Data-Ink Ratio =  data ink / total ink. "
+    answer4: " Erase Redundant Data-Ink, Unless redundancy has a distinctly worthy purpose. "
+    answer5: " non-data-ink contains
+Background images,
+Shadow effects,
+Unnecessary borders,
+Unnecessary grid lines. "
+
+
+  - question: 4
+    answer1: " If color and meaning are incongruent we have to make a conscious decision on which stimulus we will pay more attention. "
+    answer2: " “cognitive” stage involves an initial encoding. Requires high-load of working memory. Frequent errors. "
+    answer3: " “associative” stage is characterized by task performance being “smoothed out.” Errors in task or skill performance are detected and reduced. "
+    answer4: " If a group of elements are closer to each other our brain will automatically process them as similar in some way. "
+    answer5: " Turn off the box around the figure is it is possible "
+
