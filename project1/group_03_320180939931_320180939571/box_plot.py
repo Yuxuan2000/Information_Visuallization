@@ -576,5 +576,3 @@ def creative_boxplot(ax, data, median_linestyle='solid', median_linewidth=1, med
     plt.xticks([])
     plt.show()
 
-
-
